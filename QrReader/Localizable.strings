@@ -1,0 +1,22 @@
+/* 
+  Localizable.strings
+  QrReader
+
+  Created by jrangel on 18/01/21.
+  
+*/
+
+/* Generic alert title */
+"alertTitle" = "QR reader";
+
+/*Generic cancel text */
+"cancel" = "Cancelar" ;
+
+/*Generic accept text */
+"accept" = "Aceptar" ;
+
+/*Generic continue text */
+"continue" = "Continuar" ;
+
+/* msg not permission */
+"cameraMicPermission" = "Para continuar, favor de habilitar el micrófono y/o la cámara." ;
